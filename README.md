@@ -49,7 +49,7 @@ He / Him
 
 ### ⚡ Extras  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anthony-tricarico&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-tricarico&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-tricarico&theme=tokyonight)
 
 ### Holopin Badges
 [![Holopin Badges](https://holopin.me/anthonytricarico)](https://holopin.io/@anthonytricarico)
