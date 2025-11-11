@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Holopin Badges](https://holopin.me/anthonytricarico)](https://holopin.io/@anthonytricarico)
 <!--
 **anthony-tricarico/anthony-tricarico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
