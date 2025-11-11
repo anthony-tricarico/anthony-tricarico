@@ -1,6 +1,6 @@
 ## Hi there, I am Anthony! 👋
 
-🚀 **Agentic AI Developer | Scalable Systems Enthusiast | ML Researcher**
+🚀 **Agentic AI Developer | Scalable Systems Enthusiast | ML**
 
 ---
 
