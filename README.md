@@ -18,7 +18,7 @@ I’m diving deep into:
 
 ---
 
-### 👯 Collaboration Goals  
+### 🤝 Collaboration Goals  
 I'm looking to collaborate on **open-source projects** in:
 - 🧑‍🔬 **Data Science**
 - 🤖 **Artificial Intelligence**
