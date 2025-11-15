@@ -5,7 +5,7 @@
 ---
 
 ### 🔭 What I'm Working On  
-I’m currently developing **Agentic AI systems**, focusing on building **scalable, efficient, and user-friendly architectures**.
+I’m currently developing **Agentic AI systems**, focusing on building **scalable and efficient architectures**.
 
 ---
 
